@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Android-Tutorial-24-Sqlite-Database'
